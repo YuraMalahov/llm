@@ -1,0 +1,33 @@
+
+conda create --name example
+
+# To activate this environment, use
+#
+
+conda activate example
+
+#
+# To deactivate an active environment, use
+#
+
+conda deactivate
+
+##############################
+
+pip install jupyterlab
+
+pip install openai
+
+pip install jupyter_ai
+
+╰─$ jupyter lab build
+
+╰─$ jupyter lab
+// ╰─$ pipenv run jupyter lab
+
+
+╰─$ brew install --cask anaconda
+
+
+pip install langchain pandas tiktoken huggingface_hub
+
